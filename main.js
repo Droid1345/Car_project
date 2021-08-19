@@ -2,8 +2,8 @@ canvas=document.getElementById("myCanvas");
 ctx=canvas.getContext("2d");
 var rover_width=100;
 var rover_height=100;
-var rover_x=10;
-var rover_y=10;
+var player_x=10;
+var player_y=10;
 
 background_image="racing.jpg";
 rover_img="car1.png";
