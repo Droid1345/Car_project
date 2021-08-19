@@ -5,8 +5,8 @@ var rover_height=100;
 var rover_x=10;
 var rover_y=10;
 
-background_image="mars.jpg";
-rover_img="rover.png";
+background_image="racing.jpg";
+rover_img="car1.png";
 
 function ADD(){
 background_imageTag=new Image();
